@@ -117,7 +117,7 @@ data-prelitics-widget-layout="vertical|horizontal"
 
 #### Widget Title
 
-If you wish to add a title to the inside of your recommendation widget then you will need to add the following data attribute. This will add your title text using a <h2>:
+If you wish to add a title to the inside of your recommendation widget then you will need to add the following data attribute. This will add your title text using a <h2>
 
 ```html
 data-prelitics-widget-title="[TITLE_HERE]"
