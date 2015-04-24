@@ -17,18 +17,6 @@ You will need to place this code into the <head> of your document, this will ins
 <script src="http://js.prelitics.com/2/widget.js" id="prelitics-js" data-api-key="[YOUR_API_KEY_HERE]"></script>
 ```
 
-#Click Tracking
-
-Click tracking has a number of components in order to help collect and monitor what's being clicked on your website and also how users are browsing your website.
-
-### Click Tracking
-
-Click tracking enables you to track when your product links are clicked by an end user. To install click tracking you will be required to add the following data attributes to your HTML markup:
-
-```html
-<a href="#" data-prelitics-track-action="click-tracking" data-prelitics-track-name="[PRODUCT_NAME]" data-prelitics-track-id="[PRODUCT_ID]">View Product</a>
-```
-
 ### Add To Basket Click Tracking
 
 Add to basket click tracking allows Prelitics to capture and log what products are being added to users baskets. To add Add to basket tracking to your links you will need to add the following data attributes to you "Add To Basket" links:
